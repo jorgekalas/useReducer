@@ -1,0 +1,32 @@
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+input {
+	height: 2rem;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	font-size: 1.5rem;
+}
+
+
+ul {
+	display: flex;
+	flex-direction: column;
+	place-items: space-betweeen;
+}
+
+.divLi{
+    display: flex; 
+    justify-content:flex-end; 
+    align-items:center; 
+    margin: 1rem;
+}
+
+li{
+    list-style: none;
+    margin-right: 2rem;
+}
+
+
